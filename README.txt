@@ -1,5 +1,8 @@
 Test the Email Parser service.
 
+To watch how to test Email Parser yourself check the video
+https://youtu.be/7peqCpLwwjM
+
 To visually test Email Parser open the web page 
 http://3.227.179.42/
 
